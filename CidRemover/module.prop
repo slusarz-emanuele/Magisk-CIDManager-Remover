@@ -1,0 +1,6 @@
+id=cidremover
+name=Remove CIDManager
+version=1.0
+versionCode=1
+author=Emanuele
+description=Nasconde completamente l'app di sistema CIDManager
